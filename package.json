@@ -1,6 +1,6 @@
 {
   "name": "@itslanaa/web3blockql",
-  "version": "0.1.0",
+  "version": "1.1.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
